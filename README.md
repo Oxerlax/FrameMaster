@@ -21,4 +21,4 @@ _(Coming soon – screenshots of the GUI will be added after cleanup and styling
 
 ## Status
 Core functionality is working and being tested. GUI code is actively being refactored and cleaned up before full repository upload.  
-**Expected public code release:** Mid/Late October, 2025.
+**Expected public code release:** Early/Mid November, 2025.
