@@ -7,7 +7,7 @@
 - ✅ Display a full bowling score sheet with 10 frames for up to 5 players.
 - ✅ Allow users to input frame results (strike, spare, open frame, etc.).
 - ✅ Show individual frame scores and final score once all frames are complete.
-- 🔄 Save game data to a Gson file for future analysis.
+- ✅ Save game data to a Gson file for future analysis.
 - 🔄 Add statistics summary (strike % and spare %) viewable on demand.
 - 🔄 Improving GUI responsiveness and code structure for better scalability.
 
